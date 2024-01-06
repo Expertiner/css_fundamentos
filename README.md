@@ -17,23 +17,20 @@ This is my personal version of the [original project](https://www.youtube.com/wa
 
 ## Overview
 
-<!-- ### Screenshot -->
+### Screenshot
 
-![](./images/my_desktop_view.png)
+![](./images/website-first-version.png)
 
-<!-- ### Links -->
+### Links
 
-- Live Site URL: [https://expertiner.github.io/QR-code-component/](https://expertiner.github.io/QR-code-component/)
+- Live Site URL: [https://expertiner.github.io/css_fundamentos/](https://expertiner.github.io/css_fundamentos/)
 
 
 ## My process
 
-<!-- ### Built with -->
+### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- ~~Flexbox~~
-- CSS Grid
 
 ### What I learned
 
@@ -51,7 +48,21 @@ This is my personal version of the [original project](https://www.youtube.com/wa
   >  font-family: Helvetica, sans-serif;
   >}
   >```
+- The css property `transition`.
 
+### Continued development
+
+- Concepts I'm still not completely comfortable with:
+  - The css property and value `box-sizing: border-box`.
+
+- Techniques I want to refine and perfect:
+  -  CSS Box Model.
+
+### Useful resources
+
+- [Curso gratuito Git e Github #15 - Fazendo Fork de um repositório](https://www.youtube.com/watch?v=n_GEGPuNNRA&t=141s) - This helped me at forking a repository on GitHub.
+
+- [Aprenda tudo sobre positions do CSS em 25 minutos](https://www.youtube.com/watch?v=kEBrkPNv4Zk) - This helped me at understanding better the `position` css property and its values, specially `relative` and `absolute`.
 
 <!--
 - [Example resource 1](https://www.markdownguide.org/basic-syntax/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
@@ -59,7 +70,6 @@ This is my personal version of the [original project](https://www.youtube.com/wa
 -->
 
 ## Author
-
 
 - GitHub - [Andrey Alves](https://github.com/Expertiner)
 
