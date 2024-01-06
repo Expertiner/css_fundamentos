@@ -1,6 +1,8 @@
 # CSS Hora de Codar - Sneakers Sales Website
 
-This is my personal version of the [original project](https://www.youtube.com/watch?v=vwbegraDXD8) from the YouTube channel [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti). It's in Portuguese.
+This is a simple website coded with only HTML and CSS.
+
+It's is my personal version of the [original project](https://www.youtube.com/watch?v=vwbegraDXD8) from the YouTube channel [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti).
 
 ## Table of contents
 
@@ -13,7 +15,6 @@ This is my personal version of the [original project](https://www.youtube.com/wa
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
