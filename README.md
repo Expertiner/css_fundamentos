@@ -51,6 +51,12 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
   >```
 - The css property `transition`.
 
+- How to remove an already added .DS_Store file from the repository.
+  
+  Type on terminal:
+
+  >find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
@@ -64,6 +70,8 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 - [Curso gratuito Git e Github #15 - Fazendo Fork de um repositório](https://www.youtube.com/watch?v=n_GEGPuNNRA&t=141s) - This helped me at forking a repository on GitHub.
 
 - [Aprenda tudo sobre positions do CSS em 25 minutos](https://www.youtube.com/watch?v=kEBrkPNv4Zk) - This helped me at understanding better the `position` css property and its values, specially `relative` and `absolute`.
+
+- [How can I Remove .DS_Store files from a Git repository?](https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository) - This helped me at removing the .DS_Store file from the GitHub repository.
 
 ## Author
 
